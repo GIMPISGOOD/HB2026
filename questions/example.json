@@ -1,0 +1,7 @@
+[
+            {"type": "选择题", "question": "1+1 等于多少？", "answer": "2", "options": ["1", "2", "3"]},
+            {"type": "填空题", "question": "中国的首都是____。", "answer": "北京"},
+            {"type": "简答题", "question": "请简述学习的重要性。", "answer": "（主观题）"},
+            {"type": "拖拽配对", "question": "将动物与叫声配对", "pairs": [{"left": "狗", "right": "汪汪"}, {"left": "猫", "right": "喵喵"}]},
+            {"type": "连线题", "question": "匹配国家与首都", "pairs": [{"left": "中国", "right": "北京"}, {"left": "日本", "right": "东京"}]}
+]
