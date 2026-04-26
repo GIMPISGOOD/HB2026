@@ -1,0 +1,10 @@
+/* Web 2.0 - 现代清新风格 */
+QWidget {font-family: "Microsoft YaHei", sans-serif; font-size:14px; color:#303133; background:#F5F7FA;}
+QLabel#TitleLabel {font-size:20px; font-weight:bold; color:#FFF; background:#409EFF; padding:12px; border-radius:8px;}
+QPushButton {background:#409EFF; color:#FFF; border:none; border-radius:8px; padding:10px 20px;}
+QPushButton:hover {background:#66B1FF;}
+QLineEdit, QTextEdit, QComboBox {border:1px solid #DCDFE6; border-radius:6px; padding:8px 12px; background:#FFF;}
+QLineEdit:focus {border:1px solid #409EFF;}
+QGroupBox {border:1px solid #E4E7ED; border-radius:8px; margin-top:16px;}
+QScrollBar:vertical {width:8px; background:#F5F7FA; border-radius:4px;}
+QScrollBar::handle:vertical {background:#C0C4CC; border-radius:4px;}
