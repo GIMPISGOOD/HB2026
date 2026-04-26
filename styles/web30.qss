@@ -1,0 +1,10 @@
+/* Web 3.0 - 极简深色未来风格 */
+QWidget {font-family: "Segoe UI", sans-serif; font-size:14px; color:#E0E0E0; background:#121212;}
+QLabel#TitleLabel {font-size:20px; font-weight:bold; color:#FFF; background:#1E1E1E; padding:12px; border-radius:12px; border:1px solid #333;}
+QPushButton {background:#2D2D2D; color:#FFF; border:none; border-radius:12px; padding:10px 20px;}
+QPushButton:hover {background:#404040;}
+QLineEdit, QTextEdit, QComboBox {background:#1E1E1E; color:#E0E0E0; border:1px solid #333; border-radius:8px; padding:8px 12px;}
+QLineEdit:focus {border:1px solid #00C853;}
+QGroupBox {border:1px solid #333; border-radius:12px; margin-top:16px;}
+QScrollBar:vertical {width:8px; background:#121212;}
+QScrollBar::handle:vertical {background:#444; border-radius:4px;}
